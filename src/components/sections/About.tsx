@@ -38,7 +38,7 @@ const About = () => {
                     border: '1px Solid'
                   }}
                   alt="Titus pic"
-                  src="/titus.JPG"
+                  src="/portfolio/titus.JPG"
               />
             </Grid>
             <Grid item xs={12} md={8}>
