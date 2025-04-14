@@ -34,10 +34,11 @@ const About = () => {
                   component="img"
                   sx={{
                     width: 320,
-                    borderRadius: 4
+                    borderRadius: 4,
+                    border: '1px Solid'
                   }}
-                  alt="The house from the offer."
-                  src="/titus.jpeg"
+                  alt="Titus pic"
+                  src="/titus.JPG"
               />
             </Grid>
             <Grid item xs={12} md={8}>
